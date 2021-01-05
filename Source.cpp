@@ -7,7 +7,6 @@ int main() {
 
 	cout << "Please, enter the value: ";
 	cin >> x;
-		
 
 	cout << "All numbers by which this number is divisible without remainder: " << " " << endl;
 
